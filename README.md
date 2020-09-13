@@ -1,3 +1,5 @@
+[![Build Status](https://dev.azure.com/wwwc0911/HKBN%20DevOps%20Demo/_apis/build/status/somethingwentwell.ContosoAir?branchName=master)](https://dev.azure.com/wwwc0911/HKBN%20DevOps%20Demo/_build/latest?definitionId=2&branchName=master)
+
 # This project is retired, archived, and no longer supported. You are welcome to continue to use and fork the repository.
 
 
