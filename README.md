@@ -1,3 +1,5 @@
+[![Build Status](https://dev.azure.com/wwwc0911/Microsoft%20Reactor%20Azure%20DevOps/_apis/build/status/somethingwentwell.ContosoAir?branchName=master)](https://dev.azure.com/wwwc0911/Microsoft%20Reactor%20Azure%20DevOps/_build/latest?definitionId=3&branchName=master)
+
 # This project is retired, archived, and no longer supported. You are welcome to continue to use and fork the repository.
 
 
